@@ -16,7 +16,6 @@ Transforme demonstrações em vídeo de processos web em bots RPA Python/Seleniu
     * [Pré-requisitos](#pré-requisitos)
     * [Instalação](#instalação)
     * [Configuração](#configuração)
-    * [Execução](#execução)
       
 ---
 
