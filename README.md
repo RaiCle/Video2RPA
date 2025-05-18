@@ -53,7 +53,7 @@ A ideia é oferecer um **ponto de partida robusto**, economizando tempo na fase 
 
 * **Linguagem Principal:** Python (3.8+)
 * **Inteligência Artificial:** Google Gemini (via API `google-generativeai` e `google.adk`)
-    * **Modelo Principal (para geração complexa):** Idealmente `gemini-1.5-pro-latest` ou `gemini-2.5-pro-preview`.
+    * **Modelo Principal (para geração complexa):** Idealmente `gemini-2.5-pro-preview`.
     * **Modelo Secundário (para tarefas mais simples ou como fallback):** `gemini-2.0-flash`.
 * **Automação Web:** Selenium WebDriver
 * **Navegador Alvo:** Google Chrome
@@ -86,8 +86,7 @@ A ideia é oferecer um **ponto de partida robusto**, economizando tempo na fase 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/Video2RPA-Bot-Generator.git](https://github.com/seu-usuario/Video2RPA-Bot-Generator.git)
-    cd Video2RPA-Bot-Generator
+    git clone [https://github.com/RaiCle/Video2RPA.git](https://github.com/RaiCle/Video2RPA.git)
     ```
 2.  **Crie e ative um ambiente virtual (recomendado):**
     ```bash
